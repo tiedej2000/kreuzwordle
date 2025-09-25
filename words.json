@@ -1,0 +1,52 @@
+{
+  "words": [
+    {
+      "word": "CHATGPT",
+      "startBoxId": 0,
+      "direction": "vertical",
+      "clue": "AI assistant"
+    },
+    {
+      "word": "AURA",
+      "startBoxId": 32,
+      "direction": "horizontal",
+      "clue": "Energy field"
+    },
+    {
+      "word": "PEWDIPIE",
+      "startBoxId": 80,
+      "direction": "horizontal",
+      "clue": "Famous YouTuber"
+    },
+    {
+      "word": "BRAINROT",
+      "startBoxId": 38,
+      "direction": "vertical",
+      "clue": "Mental decline from internet"
+    },
+    {
+      "word": "ORANGE",
+      "startBoxId": 53,
+      "direction": "horizontal",
+      "clue": "Citrus fruit"
+    },
+    {
+      "word": "FORTNITE",
+      "startBoxId": 28,
+      "direction": "vertical",
+      "clue": "Battle royale game"
+    },
+    {
+      "word": "REEL",
+      "startBoxId": 60,
+      "direction": "horizontal",
+      "clue": "Short video format"
+    },
+    {
+      "word": "CRASHOUT",
+      "startBoxId": 117,
+      "direction": "horizontal",
+      "clue": "Complete breakdown"
+    }
+  ]
+}
